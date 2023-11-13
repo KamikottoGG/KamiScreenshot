@@ -1,1 +1,1 @@
-# Enter ur EZ-Host token in the token.txt
+# Enter ur EZ-Host api key in api_key.txt
